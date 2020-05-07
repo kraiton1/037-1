@@ -208,7 +208,7 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButton": true,
+            "showButton": false,
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -227,7 +227,7 @@
           "title": "<b>Modern Styles</b><br><b><br></b>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><b><i>Мы предлагаем продукцию с высокими эксплуатационными характеристиками&nbsp;</i></b><b><i>включая женскую одежду &nbsp;</i></b><b><i>ювелирные изделия &nbsp;</i></b></p><p><b><i>товары для красоты и здоровья &nbsp;</i></b></p><p><b><i>обувь</i></b></p><p><b><i>сумки и многое другое \n</i></b></p><p><b><i>Наше видение приносит счастье в жизнь </i></b></p><p><b><i>каждой женщины\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Особенности компании включают \n</i></b></p><p><b><i>но не ограничиваются:\n</i></b></p><p><b><i>\n</i></b></p><p><b>100 000+<i> стилей продукта и </i>500+<i> ежедневных стилей обновления\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Мы собираем информацию о женской моде и поставляем соответствующие товары в кратчайшие сроки\n</i></b></p><p><b><i>\n</i></b></p><p><i style=\"font-weight: bold;\">Цены на </i>50-80%<i style=\"font-weight: bold;\"> дешевле местных.\n</i></p><p><b><i>\n</i></b></p><p><b><i>Мы сотрудничаем со многими производителями \n</i></b></p><p><b><i>а не с посредниками\n</i></b></p><p><b><i>Мы покупаем в масштабе \n</i></b></p><p><b><i>поэтому цена ниже рыночной\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Рекомендации по продуктам\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Мы рекомендуем вам популярные продукты \n</i></b></p><p><b><i>о которых вы могли не знать\n</i></b></p><p><b><i>Возможность поделиться своим стилем с друзьями.\n</i></b></p><p><b><i>Публикуйте и делитесь своим стилем \n</i></b></p><p><b><i>чтобы рассказать друзьям \n</i></b></p><p><b><i>насколько вы круты.\n</i></b></p><p><b><i>Безопасная оплата через \n</i></b></p><p><b><i><a href=\"https://www.paypal.com/\" target=\"_blank\">PayPal</a> </i></b></p><p><b><i>или с помощью кредитной карты.\n</i></b></p><p><b><i>Регистрация купонов и тематических мероприятий.</i></b></p><p><br></p>",
-          "button": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://spoonpay.com/goods/joinToAffiliate/6175\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ПАРТНЕРСКАЯ &nbsp; ПРОГРАММА<br></a>",
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://spoonpay.com/goods/joinToAffiliate/6175\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
