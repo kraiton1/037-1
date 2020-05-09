@@ -78,7 +78,7 @@
           },
           "title": "Это уникальный &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; торговый &nbsp;сайт<br>",
           "text": "<b>&nbsp;С&nbsp; характерным тоном \n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ориентированный на женскую моду.&nbsp;</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://is.gd/2l85AZ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ПОДРОБНО</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://is.gd/2l85AZ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">подробно</a>  ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -100,9 +100,9 @@
               "text-align": "center"
             },
             ".btn": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "32px"
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-size": "36px"
             }
           }
         },
