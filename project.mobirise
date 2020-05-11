@@ -78,7 +78,7 @@
           },
           "title": "Это уникальный &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; торговый &nbsp;сайт<br>",
           "text": "<b>&nbsp;С&nbsp; характерным тоном \n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ориентированный на женскую моду.&nbsp;</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://is.gd/2l85AZ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>КУПИТЬ &nbsp; ДОСТУП &nbsp;к &nbsp;САЙТУ</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://is.gd/2l85AZ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ&nbsp;</a>  ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
