@@ -39,7 +39,7 @@
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://kraiton1.github.io/037/037.html",
-    "uniqCompNum": 5,
+    "uniqCompNum": 7,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -255,6 +255,34 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-4"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/62626266-1.png",
+              "width": 1400,
+              "link": "https://is.gd/2l85AZ",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6"
         }
       ]
     }
