@@ -17,7 +17,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/212-128x160.png",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "google-analytics": "<!-- Yandex.Metrika counter --> <script type=\"text/javascript\" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\"); ym(62494765, \"init\", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); </script> <noscript><div><img src=\"https://mc.yandex.ru/watch/62494765\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript> <!-- /Yandex.Metrika counter -->\n\n\n<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n\n\n\n",
+    "google-analytics": "<!-- Yandex.Metrika counter --> <script type=\"text/javascript\" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\"); ym(62494765, \"init\", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); </script> <noscript><div><img src=\"https://mc.yandex.ru/watch/62494765\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript> <!-- /Yandex.Metrika counter -->\n\n\n<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n\n<td valign=\"middle\" ><script>\n(function(d, s, h){\nvar p = ~location.protocol.indexOf(h)?'':h+':';\nvar m = d.getElementsByTagName(s)[0];\nvar n = d.createElement('script');n.src=p+'//glopart.ru/ads/adunit/17974/script.js';\nm.parentNode.insertBefore(n,m);d.write('<div id=\"glopart-adunit-17974\" data-glopart-adunit=\"17974\"></div>');\n})(document, 'script', 'http');\n</script></td>\n\n",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -78,7 +78,7 @@
           },
           "title": "Это уникальный &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; торговый &nbsp;сайт<br>",
           "text": "<b>&nbsp;С&nbsp; характерным тоном \n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ориентированный на женскую моду.&nbsp;</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://is.gd/2l85AZ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ&nbsp;</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://fas.st/tbYTl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEBSITE&nbsp;</a>  ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -200,8 +200,8 @@
             },
             ".btn": {
               "font-size": "32px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           },
           "_params": {
@@ -227,7 +227,7 @@
           "title": "<b>Modern Styles</b><br><b><br></b>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><b><i>Мы предлагаем продукцию с высокими эксплуатационными характеристиками&nbsp;</i></b><b><i>включая женскую одежду &nbsp;</i></b><b><i>ювелирные изделия &nbsp;</i></b></p><p><b><i>товары для красоты и здоровья &nbsp;</i></b></p><p><b><i>обувь</i></b></p><p><b><i>сумки и многое другое \n</i></b></p><p><b><i>Наше видение приносит счастье в жизнь </i></b></p><p><b><i>каждой женщины\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Особенности компании включают \n</i></b></p><p><b><i>но не ограничиваются:\n</i></b></p><p><b><i>\n</i></b></p><p><b>100 000+<i> стилей продукта и </i>500+<i> ежедневных стилей обновления\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Мы собираем информацию о женской моде и поставляем соответствующие товары в кратчайшие сроки\n</i></b></p><p><b><i>\n</i></b></p><p><i style=\"font-weight: bold;\">Цены на </i>50-80%<i style=\"font-weight: bold;\"> дешевле местных.\n</i></p><p><b><i>\n</i></b></p><p><b><i>Мы сотрудничаем со многими производителями \n</i></b></p><p><b><i>а не с посредниками\n</i></b></p><p><b><i>Мы покупаем в масштабе \n</i></b></p><p><b><i>поэтому цена ниже рыночной\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Рекомендации по продуктам\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Мы рекомендуем вам популярные продукты \n</i></b></p><p><b><i>о которых вы могли не знать\n</i></b></p><p><b><i>Возможность поделиться своим стилем с друзьями.\n</i></b></p><p><b><i>Публикуйте и делитесь своим стилем \n</i></b></p><p><b><i>чтобы рассказать друзьям \n</i></b></p><p><b><i>насколько вы круты.\n</i></b></p><p><b><i>Безопасная оплата через \n</i></b></p><p><b><i><a href=\"https://www.paypal.com/\" target=\"_blank\">PayPal</a> </i></b></p><p><b><i>или с помощью кредитной карты.\n</i></b></p><p><b><i>Регистрация купонов и тематических мероприятий.</i></b></p><p><br></p>",
-          "button": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://spoonpay.com/goods/joinToAffiliate/6175\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Партнерская программа</a>",
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://fas.st/tbYTl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEBSITE</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
